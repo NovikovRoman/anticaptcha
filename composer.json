@@ -3,7 +3,6 @@
   "description": "API anticaptcha",
   "type": "library",
   "license": "MIT",
-  "minimum-stability": "stable",
   "authors": [
     {
       "name": "Novikov Roman",
