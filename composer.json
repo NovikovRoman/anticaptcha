@@ -1,0 +1,22 @@
+{
+  "name": "noroman/anticaptcha",
+  "description": "API anticaptcha",
+  "type": "library",
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "Novikov Roman",
+      "email": "service.for.roman@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Anticaptcha\\": "src/"
+    }
+  }
+}
